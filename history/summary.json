@@ -4,63 +4,69 @@
     "url": "https://bio10x.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bio10x.com.ico",
     "slug": "bio10x-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 1511,
     "timeDay": 1579,
     "timeWeek": 1511,
     "timeMonth": 1511,
     "timeYear": 1511,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-01": 2
+    }
   },
   {
     "name": "cybermindhive.com",
     "url": "https://cybermindhive.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cybermindhive.com.ico",
     "slug": "cybermindhive-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1296,
     "timeDay": 1366,
     "timeWeek": 1296,
     "timeMonth": 1296,
     "timeYear": 1296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-01": 1
+    }
   },
   {
     "name": "run8.xyz",
     "url": "https://run8.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/run8.xyz.ico",
     "slug": "run8-xyz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1262,
     "timeDay": 1313,
     "timeWeek": 1262,
     "timeMonth": 1262,
     "timeYear": 1262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-01": 1
+    }
   },
   {
     "name": "thenannycollective.com.au",
     "url": "https://thenannycollective.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/thenannycollective.com.au.ico",
     "slug": "thenannycollective-com-au",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +75,9 @@
     "timeWeek": 2291,
     "timeMonth": 2291,
     "timeYear": 2291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-01": 0
+    }
   },
   {
     "name": "thriveagain.com.au",
