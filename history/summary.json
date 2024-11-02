@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bio10x.com.ico",
     "slug": "bio10x-com",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 1552,
-    "timeDay": 1626,
-    "timeWeek": 1552,
-    "timeMonth": 1552,
-    "timeYear": 1552,
-    "dailyMinutesDown": {
-      "2024-11-01": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1496,
+    "timeDay": 1473,
+    "timeWeek": 1496,
+    "timeMonth": 1496,
+    "timeYear": 1496,
+    "dailyMinutesDown": {}
   },
   {
     "name": "cybermindhive.com",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cybermindhive.com.ico",
     "slug": "cybermindhive-com",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
-    "time": 1349,
-    "timeDay": 1438,
-    "timeWeek": 1349,
-    "timeMonth": 1349,
-    "timeYear": 1349,
-    "dailyMinutesDown": {
-      "2024-11-01": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1303,
+    "timeDay": 1315,
+    "timeWeek": 1303,
+    "timeMonth": 1303,
+    "timeYear": 1303,
+    "dailyMinutesDown": {}
   },
   {
     "name": "run8.xyz",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/run8.xyz.ico",
     "slug": "run8-xyz",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 1305,
-    "timeDay": 1374,
-    "timeWeek": 1305,
-    "timeMonth": 1305,
-    "timeYear": 1305,
-    "dailyMinutesDown": {
-      "2024-11-01": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1257,
+    "timeDay": 1249,
+    "timeWeek": 1257,
+    "timeMonth": 1257,
+    "timeYear": 1257,
+    "dailyMinutesDown": {}
   },
   {
     "name": "thenannycollective.com.au",
@@ -65,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/thenannycollective.com.au.ico",
     "slug": "thenannycollective-com-au",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 2291,
-    "timeDay": 2172,
-    "timeWeek": 2291,
-    "timeMonth": 2291,
-    "timeYear": 2291,
+    "uptime": "93.53%",
+    "uptimeDay": "83.37%",
+    "uptimeWeek": "93.53%",
+    "uptimeMonth": "93.53%",
+    "uptimeYear": "93.53%",
+    "time": 1893,
+    "timeDay": 698,
+    "timeWeek": 1893,
+    "timeMonth": 1893,
+    "timeYear": 1893,
     "dailyMinutesDown": {
-      "2024-11-01": 9
+      "2024-11-02": 34,
+      "2024-11-01": 205
     }
   },
   {
@@ -90,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 301,
-    "timeWeek": 457,
-    "timeMonth": 457,
-    "timeYear": 457,
+    "time": 379,
+    "timeDay": 146,
+    "timeWeek": 379,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {}
   }
 ]
