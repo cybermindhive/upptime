@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bio10x.com.ico",
     "slug": "bio10x-com",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1554,
     "timeDay": 1497,
     "timeWeek": 1430,
     "timeMonth": 1554,
     "timeYear": 1554,
-    "dailyMinutesDown": {
-      "2024-11-18": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "cybermindhive.com",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cybermindhive.com.ico",
     "slug": "cybermindhive-com",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1284,
     "timeDay": 1267,
     "timeWeek": 1227,
     "timeMonth": 1284,
     "timeYear": 1284,
-    "dailyMinutesDown": {
-      "2024-11-18": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "run8.xyz",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/run8.xyz.ico",
     "slug": "run8-xyz",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1263,
     "timeDay": 1247,
     "timeWeek": 1198,
     "timeMonth": 1263,
     "timeYear": 1263,
-    "dailyMinutesDown": {
-      "2024-11-18": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "thenannycollective.com.au",
@@ -65,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/thenannycollective.com.au.ico",
     "slug": "thenannycollective-com-au",
     "status": "down",
-    "uptime": "89.18%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "89.18%",
-    "uptimeYear": "89.18%",
+    "uptime": "89.02%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "89.02%",
+    "uptimeYear": "89.02%",
     "time": 2159,
     "timeDay": 3202,
     "timeWeek": 2298,
     "timeMonth": 2159,
     "timeYear": 2159,
     "dailyMinutesDown": {
-      "2024-11-18": 9,
+      "2024-11-19": 37,
+      "2024-11-18": 21,
       "2024-11-03": 1390,
       "2024-11-02": 1440,
       "2024-11-01": 205
