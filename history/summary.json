@@ -82,19 +82,19 @@
     "url": "https://www.thriveagain.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thriveagain.com.au.ico",
     "slug": "thriveagain-com-au",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 193,
-    "timeWeek": 995,
-    "timeMonth": 582,
-    "timeYear": 553,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 598,
+    "timeDay": 1025,
+    "timeWeek": 1183,
+    "timeMonth": 648,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2024-12-13": 0
+      "2024-12-13": 16
     }
   }
 ]
