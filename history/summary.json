@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thenannycollective.com.au.ico",
     "slug": "thenannycollective-com-au",
     "status": "up",
-    "uptime": "94.85%",
+    "uptime": "94.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "94.85%",
+    "uptimeYear": "94.93%",
     "time": 2143,
     "timeDay": 1832,
     "timeWeek": 1932,
@@ -82,17 +82,19 @@
     "url": "https://www.thriveagain.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thriveagain.com.au.ico",
     "slug": "thriveagain-com-au",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 561,
+    "time": 553,
     "timeDay": 193,
-    "timeWeek": 1110,
-    "timeMonth": 595,
-    "timeYear": 561,
-    "dailyMinutesDown": {}
+    "timeWeek": 995,
+    "timeMonth": 582,
+    "timeYear": 553,
+    "dailyMinutesDown": {
+      "2024-12-13": 0
+    }
   }
 ]
