@@ -4,10 +4,10 @@
     "url": "https://bio10x.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bio10x.com.ico",
     "slug": "bio10x-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1542,
@@ -15,17 +15,19 @@
     "timeWeek": 1591,
     "timeMonth": 1579,
     "timeYear": 1542,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-02": 2
+    }
   },
   {
     "name": "cybermindhive.com",
     "url": "https://cybermindhive.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cybermindhive.com.ico",
     "slug": "cybermindhive-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1314,
@@ -33,17 +35,19 @@
     "timeWeek": 1352,
     "timeMonth": 1354,
     "timeYear": 1314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-02": 1
+    }
   },
   {
     "name": "run8.xyz",
     "url": "https://run8.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/run8.xyz.ico",
     "slug": "run8-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1299,
@@ -51,25 +55,28 @@
     "timeWeek": 1343,
     "timeMonth": 1336,
     "timeYear": 1299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-02": 1
+    }
   },
   {
     "name": "thenannycollective.com.au",
     "url": "https://thenannycollective.com.au/",
     "icon": "https://icons.duckduckgo.com/ip3/thenannycollective.com.au.ico",
     "slug": "thenannycollective-com-au",
-    "status": "up",
-    "uptime": "96.18%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.19%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.18%",
+    "uptimeYear": "96.19%",
     "time": 2106,
     "timeDay": 2308,
     "timeWeek": 2243,
     "timeMonth": 2337,
     "timeYear": 2106,
     "dailyMinutesDown": {
+      "2025-05-02": 0,
       "2025-01-22": 540,
       "2025-01-21": 111,
       "2025-01-20": 506,
